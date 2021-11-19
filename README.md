@@ -1,6 +1,4 @@
-# Pancake Router
-
-### Bsc-Test
+# 🦓 Bmswap Router
 
 The following assumes the use of `node@>=10`.
 
